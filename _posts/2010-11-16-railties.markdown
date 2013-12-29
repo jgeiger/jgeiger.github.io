@@ -1,0 +1,16 @@
+---
+author: admin
+comments: true
+date: 2010-11-16 03:31:57+00:00
+layout: post
+slug: railties
+title: railties
+wordpress_id: 234
+categories:
+- ruby
+- web
+---
+
+So, for the longest time I thought this was "rail-tees". If you look at it, it's actually "rail-ties", you know, like the big wood pieces that go between train tracks?
+
+Anyway, this was probably blatantly obvious to a lot of people, but I figured I'd clear it up...

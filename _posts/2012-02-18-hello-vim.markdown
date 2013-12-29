@@ -1,0 +1,15 @@
+---
+author: admin
+comments: true
+date: 2012-02-18 05:30:52+00:00
+layout: post
+slug: hello-vim
+title: hello vim
+wordpress_id: 258
+categories:
+- ruby
+- web
+---
+
+So I started a new job and the main text editor is vim. I am now a big fan.
+

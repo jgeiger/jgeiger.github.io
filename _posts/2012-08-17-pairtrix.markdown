@@ -1,0 +1,32 @@
+---
+author: admin
+comments: true
+date: 2012-08-17 17:44:18+00:00
+layout: post
+slug: pairtrix
+title: pairtrix
+wordpress_id: 299
+categories:
+- pairtrix
+- ruby
+- web
+tags:
+- pair programming
+- pairtrix
+- ruby
+- web
+---
+
+I've been working on a large project with some developers from Pivotal Labs. Each team is made up of groups of paired developers. Depending on the size of the team, creating a even distribution of pairs can become increasingly difficult.
+
+One of the options was to use a google spreadsheet matrix that had to be manually updated each day. Visually it worked well since you could update the numbers and see a history, but there wasn't really a way to see who was paired on the given day. Also whenever someone left the team you needed to completely re-work the matrix to account for the change. We discussed the options to improve the experience and I decided to write an application to automate the process.
+
+Pairtrix simplifies the process of managing and viewing team pairings by allowing signed in users to manage companies, employees, teams and pairs. Companies are displayed in a list and signed-in users can request membership to view that company's information. Users who create a company will also have more administrative functions available to them including approving the membership requests for their companies.
+
+Here are the links to the application, code repository and the tracker project. Please feel free to pass along bugs and feature requests.
+
+Site: [http://www.pairtrix.com](http://www.pairtrix.com)
+
+Github: [https://github.com/jgeiger/pairtrix](https://github.com/jgeiger/pairtrix)
+
+Pivotal Tracker: [https://www.pivotaltracker.com/projects/608423](https://www.pivotaltracker.com/projects/608423)

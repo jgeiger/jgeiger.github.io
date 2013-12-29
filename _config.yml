@@ -1,0 +1,4 @@
+name: joeygeiger.com
+markdown: redcarpet
+pygments: true
+exclude: ['vendor', 'Gemfile', 'Gemfile.lock']
