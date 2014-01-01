@@ -35,5 +35,4 @@ I'm using rbenv with ruby 1.9.3-p125 as my main ruby, but you need to make sure 
 
 Thanks to:
 [https://github.com/Casecommons/vim-config](https://github.com/Casecommons/vim-config)
-[https://github.com/Casecommons/casecommons_workstation/blob/master/recipes/vim.rb
-](https://github.com/Casecommons/casecommons_workstation/blob/master/recipes/vim.rb )
+[https://github.com/Casecommons/casecommons_workstation/blob/master/recipes/vim.rb](https://github.com/Casecommons/casecommons_workstation/blob/master/recipes/vim.rb)
