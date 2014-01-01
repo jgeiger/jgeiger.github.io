@@ -1,11 +1,9 @@
 ---
-author: admin
-comments: true
+author: jgeiger
 date: 2009-01-22 16:34:50+00:00
 layout: post
 slug: mapreduce-real-world-examples
 title: Map/Reduce real world examples
-wordpress_id: 8
 tags:
 - aws
 - ec2
