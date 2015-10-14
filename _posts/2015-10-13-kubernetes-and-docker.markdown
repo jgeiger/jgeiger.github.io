@@ -13,6 +13,7 @@ I'm using [my fork of dinghy](https://github.com/jgeiger/dinghy) and the [Docker
 My fork removes the dependency on brew's docker and docker-machine.
 
 Command to SSH pipe docker-machine. Replace dinghy with your machine's name.
+
 ```
 ssh -i ~/.docker/machine/machines/dinghy/id_rsa docker@$(docker-machine ip dinghy) -L 8080:localhost:8080
 ```
