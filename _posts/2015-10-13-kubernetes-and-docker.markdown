@@ -19,10 +19,10 @@ ssh -i ~/.docker/machine/machines/dinghy/id_rsa docker@$(docker-machine ip dingh
 ```
 Copy/paste the docker-compose.yml file below into a directory and run docker-compose up.
 
-Just don't name the directory k8s since it seems to cause some issues when starting up. Compose names the images like k8s_master_1 and k8s seems to be reserved in Kubernetes.
+Just don't name the directory k8s since it seems to cause some issues when starting up. Compose names the images like k8s\_master\_1 and k8s seems to be reserved in Kubernetes.
 
 #### docker-compose.yml
-```
+```yaml
 etcd:
   image: gcr.io/google_containers/etcd:2.0.13
   net: "host"
