@@ -14,7 +14,7 @@ My fork removes the dependency on brew's docker and docker-machine.
 
 Command to SSH pipe docker-machine. Replace dinghy with your machine's name.
 
-```
+```console
 ssh -i ~/.docker/machine/machines/dinghy/id_rsa docker@$(docker-machine ip dinghy) -L 8080:localhost:8080
 ```
 Copy/paste the docker-compose.yml file below into a directory and run docker-compose up.
