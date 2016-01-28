@@ -21,6 +21,7 @@ Other changes included using
 
 The other big issue was mysql performance issues. It seems there's a [bug](http://bugs.mysql.com/bug.php?id=46959) in mySQL when running on ext4 file systems.
 I was able to [_add_ some options](https://mariadb.com/blog/what-best-linux-filesystem-mariadb)
+
 ```console
 noatime,data=writeback,commit=60,nobarrier
 ```
