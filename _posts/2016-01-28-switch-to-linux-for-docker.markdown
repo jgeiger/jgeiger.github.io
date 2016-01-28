@@ -17,7 +17,7 @@ Other changes included using
 * [Terminator](http://gnometerminator.blogspot.com/p/introduction.html) for my terminal
 * [Scudcloud](https://github.com/raelgc/scudcloud) for my Slack client
 * [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) with [ExQuilla](https://addons.mozilla.org/en-US/thunderbird/addon/exquilla-exchange-web-services/) for my Exchange mail client
-* [govendor](github.com/kardianos/govendor) for my Go vendoring strategy. I really like how this works.
+* [govendor](https://github.com/kardianos/govendor) for my Go vendoring strategy. I really like how this works.
 
 The other big issue was mysql performance issues. It seems there's a [bug](http://bugs.mysql.com/bug.php?id=46959) in mySQL when running on ext4 file systems.
 I was able to [_add_ some options](https://mariadb.com/blog/what-best-linux-filesystem-mariadb)
