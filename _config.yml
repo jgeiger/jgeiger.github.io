@@ -1,4 +1,4 @@
 name: joeygeiger.com
 markdown: kramdown
-pygments: true
+highlighter: rouge
 exclude: ['vendor', 'Gemfile', 'Gemfile.lock']
